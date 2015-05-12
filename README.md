@@ -9,4 +9,8 @@
  - [Enjoy](https://www.goenjoy.com/)
  - Alfred
  - fitorbit / kumu
+ - Handy
+ - Homejoy
+ - Shyp
+ - Caviar
  
