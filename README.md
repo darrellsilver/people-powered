@@ -9,4 +9,5 @@
  - [Enjoy](https://www.goenjoy.com/)
  - Alfred
  - fitorbit / kumu
+ - [Coach.me](https://www.coach.me/)
  
